@@ -1,0 +1,150 @@
+
+
+
+npm install @angular/cli@latest –save-dev
+
+ng add @ng-bootstrap/ng-bootstrap@latest
+
+@ng-bootstrap/ng-bootstrap@13.0.0.
+@angular/material@7.0.0.
+NOT SUPPORTED: keyword "id", use "$id" for schema ID
+ng add @angular/material@latest
+
+ng add @angular/material@13.3.9
+
+ng add @angular/cdk@13.3.9
+@angular/cdk
+npm uninstall @angular/material@13.3.9
+
+
+
+ng-multiselect-dropdown
+https://www.npmjs.com/package/ng-multiselect-dropdown
+
+npm i ng-multiselect-dropdown
+->npm add ng-multiselect-dropdown
+added 2 packages, removed 1 package, and audited 963 packages in 6s
+https://nileshpatel17.github.io/ng-multiselect-dropdown/
+
+npm install
+could not resolve dependency peer
+npm install --legacy-peer-deps
+
+npm install --save --legacy-peer-deps
+
+
+Angular Multi Select Component
+https://coreui.io/angular/docs/forms/multi-select
+
+https://www.ag-grid.com/
+https://www.ag-grid.com/example
+
+excel export
+
+
+https://www.itsolutionstuff.com/post/how-to-check-all-and-uncheck-all-checkboxes-in-angularexample.html
+
+https://github.com/DevExpress-Examples/devextreme-datagrid-select-all-checkbox-t444368
+
+https://www.mfps.hc.edu.tw/nss/main/freeze/5a9759adef37531ea27bf1b0/WifrNAl8182/5fa9f2f13908881fb0d9b220
+
+ng serve --port 4210
+
+ng serve --port 4220
+
+npm uninstall
+ng --version
+npm install --save-dev @angular/cli@latest
+ng --version
+
+An unhandled exception occurred: Could not find the implementation for builder @angular-devkit/build-angular:dev-server
+See "C:\Users\louis\AppData\Local\Temp\ng-GJBhKV\angular-errors.log" for further details.
+
+Could not find the implementation for builder
+ng update @angular/cli @angular/core --allow-dirty --force
+
+電池修復
+Toyota原廠開價14萬更換電池，Camry Hybrid車主花200塊 DIY搞定！
+https://www.techbang.com/posts/67341-toyota-original-price-140000-replacement-battery-camry-hybrid-owner-spend-200-pieces-of-diy-to-get-it-done
+
+
+最低生活所需
+
+
+1.angular select all checkboxes tables
+
+https://stackblitz.com/edit/angular-mat-table-checkbox-select-all?file=main.ts
+
+(用foreach)
+https://www.itsolutionstuff.com/post/angular-table-with-checkbox-example-tutorialexample.html
+every
+https://roytuts.com/angular-check-uncheck-individual-all-checkbox-on-html-table-rows/
+
+https://github.com/roytuts/angular/tree/master/angular-check-uncheck-individual-all-checkbox-table-rows
+
+
+	isAllCheckBoxChecked() {
+		return this.products.every(p => p.checked);
+	}
+
+1-1.https://www.freakyjolly.com/check-uncheck-all-checkbox-list-in-angular/
+  code pen https://codepen.io/veerkun/pen/VwWyda
+  https://jsfiddle.net/4yqyowpj/
+
+1-2.這個看來是ok的 這裡有很多material的元件
+  https://stackblitz.com/edit/angular-select-all-checkbox?file=src%2Fmain.ts
+  
+
+2.table, ng for edit add
+
+
+3.分行表
+https://stackblitz.com/edit/complete-example-ngfor-angular-4-5-6-7?file=src%2Fapp%2Fapp.component.html
+https://stackblitz.com/edit/angular-7-table?file=src%2Fapp%2Fapp.component.ts
+
+4.https://stackblitz.com/edit/angular-7-table?file=src%2Fapp%2Fapp.component.ts
+
+
+
+5.charts
+ 5-1.https://stackblitz.com/edit/angular-chart-js?file=src%2Fapp%2Fapp.component.ts
+ 5-2.bar chart https://stackblitz.com/edit/angular-barchart-example?file=src%2Fapp%2Fapp.component.ts
+ 5-3.bar chart https://stackblitz.com/edit/angular-chartjs-barchart?file=src%2Fapp%2Fapp.component.ts
+
+highcharts
+https://stackblitz.com/edit/angular-highcharts-example?file=src%2Fapp%2Fapp.component.ts
+
+
+分組下拉選單
+https://developer.snapappointments.com/bootstrap-select/examples/
+
+
+
+
+
+
+
+
+能活著,每天有飯吃,
+
+
+
+export class AppComponent {
+  disciplines = [{
+    "name": "ACLS",
+    "courses": aa
+  }, {
+    "name": "BLS",
+    "courses": "bb"
+  }];
+}
+
+<input type="checkbox" [checked]="isAllCheckBoxChecked()" (change)="checkAllCheckBox($event)"></th>
+				<th>ID</th>
+				<th>Code</th>
+
+
+
+			<tr *ngFor="let p of products; let i=index; let odd = odd" [ngClass]="odd ? 'odd_col' : 'even_col'">
+				<td><input type="checkbox" value="{{p.id}}" [(ngModel)]="products[i].checked"></td>
+				<td>{{ p.id }}</td>
