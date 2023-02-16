@@ -1,0 +1,268 @@
+
+✔ Packages successfully installed.
+NOT SUPPORTED: keyword "id", use "$id" for schema ID
+
+
+https://material.angular.io/guide/getting-started
+
+
+
+ng generate @angular/material:navigation <component-name>
+
+
+ng generate @angular/material:navigation aaa
+
+
+
+https://material.angular.io/components/autocomplete/examples
+
+
+
+npm uninstall --save-dev angular-cli
+npm install --save-dev @angular/cli@latest
+npm install
+ng --version
+
+ng add @angular/material@13.0.0
+
+american remote development jobs
+
+
+https://hackmd.io/@suyenting/SyrcLvYyd#%E8%A3%9C%E5%85%85-Windows%E4%B8%BB%E6%A9%9F%E7%9B%B4%E6%8E%A5%E9%80%A3%E7%B7%9ARedis
+
+
+scratch
+
+
+
+D:\dotnet1\pj10\src\app
+
+angular material paginator go to page stackblitz
+
+
+https://stackblitz.com/edit/mat-paginator-with-goto?file=src%2Fapp%2Fapp.component.ts
+
+6379
+
+redis-cli.exe -h 127.0.0.1 -p 6379
+
+https://jed1978.github.io/2018/05/11/Redis-Programming-CSharp-Basic-1.html
+
+https://dotblogs.com.tw/kinanson/2018/06/22/162333
+
+
+ConnectionMultiplexer redis = ConnectionMultiplexer.Connect("localhost");
+IDatabase db = redis.GetDatabase(0);
+
+
+
+
+Read Excel File In C# WinForm
+
+https://www.c-sharpcorner.com/article/read-excel-file-in-c-sharp-winform/
+
+
+
+
+
+db.StringSet("test1","this is test1");
+var result=db.StringGet("test1");
+
+
+javascript timeout/sleep using setTimeout()
+https://stackoverflow.com/questions/18254168/javascript-timeout-sleep-using-settimeout
+
+
+
+
+
+
+
+
+code.org
+
+2021年 12月瓦斯 442
+2022年全年水電瓦斯12200
+2023年1月水+電1914
+共計14000
+
+
+  <div class="page-select">
+    <div class="label">Go to page:</div>
+    <mat-form-field>
+      <mat-select [ngModel]="manualPage" (ngModelChange)="updateManualPage($event)">
+        <mat-option [value]="1">1</mat-option>
+        <mat-option [value]="10">10</mat-option>
+        <mat-option [value]="20">20</mat-option>
+        <mat-option [value]="30">30</mat-option>
+      </mat-select>
+    </mat-form-field>
+  </div>
+
+
+
+
+
+
+    <div class="label">Go to page:</div>
+    <mat-form-field>
+      <mat-select [ngModel]="manualPage" (ngModelChange)="updateManualPage($event)">
+        <mat-option [value]="1">1</mat-option>
+        <mat-option [value]="10">10</mat-option>
+        <mat-option [value]="20">20</mat-option>
+        <mat-option [value]="30">30</mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    setTimeout(() =>{
+      this.updateManualPage(1);
+      //put your code in here to be delayed by 2 seconds
+    },2000);
+
+
+https://material.angular.io/components/paginator/overview
+
+
+
+Simple & intelligible numbered pagination in Angular
+https://itnext.io/simple-intelligible-numbered-pagination-in-angular-66dbed73e2d7
+
+https://stackblitz.com/edit/simple-numbered-pagination-angular?file=src%2Fapp%2Fapp.component.ts
+
+.debounceTime(300)
+
+
+
+
+[Angular] Angular Material Table API 筆記
+https://blog.kevinyang.net/2018/09/19/angular-material-table-hidden-api/
+
+
+template: TemplateRef<any>
+
+
+https://stackoverflow.com/questions/55368026/add-go-to-page-functionality-to-material-pagination-in-angular
+
+https://stackblitz.com/edit/mat-paginator-with-goto?file=src%2Fapp%2Fapp.component.ts
+
+
+D:\dotnet1\projets\11\EFCore_DbContextConfig\EFCore_DbContextConfig
+
+Microsoft Excel xx.xx Object library
+
+
+高級打字員的技術雲
+[C#] EPPlus 讀寫(read/write) Excel檔案 懶人包範例程式碼
+https://dotblogs.com.tw/shadow/2012/07/13/73385
+
+https://ithelp.ithome.com.tw/articles/10301982?sc=rss.qu
+
+EPPlus
+
+winform
+D:\CS_winform\CS_winform\CS_winform1
+
+
+D:\dotnet1\projets\12\EFCore_DbContextConfig\EFCore_DbContextConfig\EFCore_DbContextConfig
+
+[C#] EPPlus套件，產生Excel
+https://ithelp.ithome.com.tw/articles/10309126
+
+D:\dotnet1\projets\12\EFCore_DbContextConfig\
+
+在 C# WinForm 中讀取 Excel 文件
+https://www.c-sharpcorner.com/article/read-excel-file-in-c-sharp-winform/
+
+
+redis
+在
+D:\Program Files\Redis
+
+https://www.runoob.com/redis/redis-data-types.html
+https://www.runoob.com/redis/redis-conf.html
+
+
+这时候另启一个 cmd 窗口，原来的不要关闭，不然就无法访问服务端了。
+
+切换到 redis 目录下运行:
+
+redis-cli.exe -h 127.0.0.1 -p 6379
+
+set myKey abc
+取出键值对:
+
+get myKey
+
+angular object to excel stackblitz
+https://jsonworld.com/demo/how-to-export-data-to-excel-file-in-angular-application
+
+https://stackblitz.com/edit/angular-object-excel?file=src%2Fapp%2Fapp.component.ts
+https://stackblitz.com/edit/angular-export-to-excel?file=src%2Fapp%2Fapp.component.ts
+
+
+https://stackblitz.com/edit/angular-html-to-pdf-example-answer?file=README.md
+
+https://stackblitz.com/edit/jspdf-ayw7vt?file=app%2Fapp.component.ts
+
+https://stackblitz.com/edit/angular-downloadfile-api-pdf?file=src%2Fapp%2Fapp.component.ts
+
+
+https://www.c-sharpcorner.com/article/drag-and-drop-table-columns-in-angular-10-application/
+
+
+https://www.c-sharpcorner.com/article/new-angular-drag-and-drop-feature-ngdragdrop/
+
+
+https://stackblitz.com/edit/angular-mat-table-columns-draggable?file=src%2Fapp%2Fapp.component.ts
+
+
+
+https://stackblitz.com/edit/angular-drag-drop-table-columns-xprgay?file=src%2Fapp%2Fapp.component.html
+
+https://stackblitz.com/edit/angular-drag-drop-table-columns-wnkrzf?file=src%2Fapp%2Fapp.component.ts
+
+https://stackblitz.com/edit/angular-mat-table-drag-and-drop?file=main.ts
+
+
+https://smlpoints.com/notes-bootstrap-5-icons.html
+
+
+凱馳高壓清洗機
+凱馳高壓清洗機k3
+
+請問,有沒有凱馳k2用的,可調壓,短槍,或短噴頭
+
+
+凱馳KARCHER 冷氣清潔轉換組 槍把+槍管+萬向噴頭 高壓清洗機配件【小鐵五金】
+https://shopee.tw/%E5%87%B1%E9%A6%B3KARCHER-%E5%86%B7%E6%B0%A3%E6%B8%85%E6%BD%94%E8%BD%89%E6%8F%9B%E7%B5%84-%E6%A7%8D%E6%8A%8A-%E6%A7%8D%E7%AE%A1-%E8%90%AC%E5%90%91%E5%99%B4%E9%A0%AD-%E9%AB%98%E5%A3%93%E6%B8%85%E6%B4%97%E6%A9%9F%E9%85%8D%E4%BB%B6%E3%80%90%E5%B0%8F%E9%90%B5%E4%BA%94%E9%87%91%E3%80%91-i.8463647.2188929509
+
+
+https://www.rakuten.com.tw/shop/ez80/product/llk7mivdz/?s-id=tw_product_widget_newarrival_04
+
+
+https://www.rakuten.com.tw/shop/ez80/product/p0712161634646/?rtg=8849b36ec28b4ddde7a4a05b5d85467e&s-id=tw_product_widget_rec_05
+
+
+https://stackblitz.com/edit/ng-bootstrap-modal-stack?file=app%2Fapp.component.ts
+
+
+https://stackblitz.com/edit/angular-grid-hidden-columns?file=src%2Fapp%2Fgrid%2Fgrid-multiple-row-drag%2Fgrid-multiple-row-drag.component.ts
+
+
+https://stackblitz.com/edit/angular-dufjdn?file=app%2Fapp.component.ts
+
+
+iis put method not allowed
+
+【已解決】IIS 使用PUT、DELETE、PATCH回傳405 Method Not Allowed
+
+
+
+
+https://www.codeproject.com/Articles/5320138/HTML-Table-Freeze-Row-and-Column-with-CSS
+
+https://adriancs.com/demo/freeze_table_column_row_responsive_viewport.html
+
+
+
+
