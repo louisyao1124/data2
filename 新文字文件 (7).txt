@@ -1,0 +1,15 @@
+
+https://stackoverflow.com/questions/65363869/upload-file-to-asset-folder-in-angular-project
+
+
+https://www.geeksforgeeks.org/angular-file-upload/
+
+
+https://www.appsloveworld.com/angular/100/221/how-to-store-images-to-assets-images-folder-in-angular
+
+
+https://valor-software.com/ng2-file-upload/
+
+
+Ng2 File Upload
+https://www.npmjs.com/package/ng2-file-upload
