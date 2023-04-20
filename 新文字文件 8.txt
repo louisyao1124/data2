@@ -1,0 +1,67 @@
+
+https://stackoverflow.com/questions/65363869/upload-file-to-asset-folder-in-angular-project
+
+
+https://www.geeksforgeeks.org/angular-file-upload/
+
+
+https://www.appsloveworld.com/angular/100/221/how-to-store-images-to-assets-images-folder-in-angular
+
+
+https://valor-software.com/ng2-file-upload/
+
+
+Ng2 File Upload
+https://www.npmjs.com/package/ng2-file-upload
+
+
+https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=5086707&osm=Ad07&utm_source=googleshop&utm_medium=traffic_pla&utm_content=bn&gclid=CjwKCAjw586hBhBrEiwAQYEnHdaGlkGpVLhT8-yxllZ8RiR6Nn_-hKfSKm1mBtQ9XFWmAqjo3QZpWBoCJaEQAvD_BwE
+
+
+https://shopee.tw/%E9%87%91%E6%99%9F%E5%88%A9%E2%98%85-%E6%93%B4%E5%AD%94-%E5%85%AD%E9%97%9C%E7%AF%80%E6%A2%AF-6%E5%B0%BA-7%E5%B0%BA-8%E5%B0%BA-9%E5%B0%BA-10%E5%B0%BA-%E6%B2%96%E5%AD%94-%E6%8A%98%E7%96%8A%E6%A2%AF-A%E5%AD%97%E6%A2%AF-%E9%8B%81%E6%A2%AF-%E4%B8%80%E5%AD%97%E6%A2%AF-%E5%85%85%E5%AD%94-%E8%90%AC%E7%94%A8%E6%A2%AF-%E6%91%BA%E7%96%8A%E6%A2%AF-i.2595781.35630354?sp_atk=be0eff6d-44dd-47f4-b408-fc3727e3a505&xptdk=be0eff6d-44dd-47f4-b408-fc3727e3a505
+
+
+輕
+https://shopee.tw/%E3%80%90%E5%85%8D%E9%81%8B-%E9%80%81%E5%B7%A5%E5%85%B7%E7%AE%B1%E3%80%91%E5%BE%B7%E5%9C%8BBAFEN%E2%AD%90%E5%9C%8B%E9%9A%9B%E5%AE%89%E5%85%A8%E6%AA%A2%E9%A9%97%E2%AD%90%E5%A4%9A%E5%8A%9F%E8%83%BD%E4%BA%BA%E5%AD%97%E6%A2%AF%E9%8B%81%E6%A2%AF-%E6%A2%AF%E5%AD%90-%E4%BC%B8%E7%B8%AE%E6%A2%AF-%E5%B7%A5%E7%A8%8B%E6%A2%AF-%E4%BA%BA%E5%AD%97%E6%A2%AF-%E5%B7%A5%E4%BD%9C%E6%A2%AF-%E4%BC%B8%E7%B8%AE%E9%8B%81%E6%A2%AF-i.6826271.19160660952?sp_atk=287feb3b-77f1-46f3-ab5a-247f3466105c&xptdk=287feb3b-77f1-46f3-ab5a-247f3466105c
+
+
+https://24h.pchome.com.tw/prod/DEAC8Q-A900F10BS?gclid=CjwKCAjw586hBhBrEiwAQYEnHXq8v96ttWh0GwbssPu5_oe0yAfhPX2Kms2TOrAQooG8xrjMKujPWhoCqXcQAvD_BwE
+
+
+https://shopee.tw/%E3%80%90WDY%E3%80%91304%E4%B8%8D%E9%8F%BD%E9%8B%BC%E8%9D%B4%E8%9D%B6%E5%BD%A2%E8%9E%BA%E7%B5%B2-%E6%89%8B%E6%93%B0%E8%9E%BA%E6%A0%93-%E7%BE%8A%E8%A7%92%E8%9E%BA%E9%87%98-%E6%89%8B%E6%93%B0%E8%9E%BA%E9%87%98M3M4M5M6-i.485165470.8986455503
+
+AZ-Y安智盈五金工廠
+
+https://shopee.tw/%E3%80%90WDY%E3%80%91304%E4%B8%8D%E9%8F%BD%E9%8B%BC%E8%9D%B4%E8%9D%B6%E5%BD%A2%E8%9E%BA%E7%B5%B2-%E6%89%8B%E6%93%B0%E8%9E%BA%E6%A0%93-%E7%BE%8A%E8%A7%92%E8%9E%BA%E9%87%98-%E6%89%8B%E6%93%B0%E8%9E%BA%E9%87%98M3M4M5M6-i.485165470.8986455503
+
+
+【創新帆布】透明帆布 夾網帆布 防水布 遮雨帆 *攤販*防雨*防水*遮光*通風*左右拉式伸縮透明帆布 洗車隔水帆布
+
+
+賞心悅目專業窗簾工廠訂做安裝:全透明帆布.透視100%~ 簡易輕隔間!pvc葉片85mm活動拉門~每才35元特價中
+
+龍興帆布行
+地址： 300新竹市北區城北街103號
+營業時間： 
+已打烊 ⋅ 開始營業時間：週一09:30
+電話： 03 533 1039
+
+
+新建帆布行
+地址： 300新竹市香山區牛埔路172-10號
+營業時間： 
+已打烊 ⋅ 開始營業時間：週一09:30
+電話： 03 538 2209
+
+https://stackblitz.com/edit/angular-picture-in-picture-example-tmfcwy?file=src%2Fapp%2Fapp.component.ts
+
+https://stackblitz.com/edit/angular-img-gallery?file=src%2Fapp%2Fapp.component.html
+
+https://stackblitz.com/edit/ng-gallery?file=app%2Fapp.component.ts
+
+
+https://stackblitz.com/edit/ng-gallery?file=app%2Fapp.component.html
+
+
+他的個性
+
