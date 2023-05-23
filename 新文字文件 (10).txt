@@ -1,0 +1,35 @@
+
+
+
+
+https://www.dotblogs.com.tw/yc421206/2022/10/29/how_to_create_redis_net_6_local_development_environment
+
+
+https://dotnettutorials.net/lesson/generalized-async-return-types/
+
+
+https://www.aspsnippets.com/questions/154637/Return-List-from-Async-Method-using-C-in-Net/
+
+
+public static async Task<List<InstaMedia>> PullUserPosts(string userToscrape)
+{
+    user = new UserSessionData();
+    user.UserName = username;
+    user.Password = password;
+    var delay = RequestDelay.FromSeconds(0,0);
+    api = InstaApiBuilder.CreateBuilder()
+            .SetUser(user)
+            .UseLogger(new DebugLogger(LogLevel.Exceptions))
+            .SetRequestDelay(delay)
+            .Build();
+    var loginRequest = await api.LoginAsync();
+    if (loginRequest.Succeeded) {
+ 
+    }
+    IResult<InstaUser> userSearch = await api.GetUserAsync(userToscrape);
+    Console.WriteLine($"USER: {userSearch.Value.FullName}\n\tfollowers: {userSearch.Value.FollowersCount} \n\tverified: {userSearch.Value.IsVerified} ");
+    IResult<InstaMediaList> media = await api.GetUserMediaAsync(userToscrape, PaginationParameters.MaxPagesToLoad(5));
+    List<InstaMedia> mediaList = media.Value.ToList();
+    
+    return mediaList;
+}
